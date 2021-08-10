@@ -1,2 +1,2 @@
-# ros_pcv100
-用於倍加福PCV100的ROS pkg.
+# ros_pgv100
+用於倍加福PGV100的ROS pkg.
